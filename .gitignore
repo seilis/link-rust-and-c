@@ -1,0 +1,16 @@
+/target
+
+# C package autotools files
+/mypkg/*.in
+/mypkg/*.cache
+/mypkg/*.h*
+/mypkg/*.m4
+/mypkg/*.sh
+/mypkg/missing
+/mypkg/depcomp
+/mypkg/install-sh
+/mypkg/configure
+/mypkg/configure~
+/mypkg/config.guess
+/mypkg/compile
+/mypkg/*.sub
